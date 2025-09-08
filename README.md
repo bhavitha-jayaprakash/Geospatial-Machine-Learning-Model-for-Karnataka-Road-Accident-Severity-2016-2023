@@ -76,7 +76,7 @@ You need Python installed on your system along with the `pip` package manager.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [[https://github.com/your-username/your-repo.git](https://github.com/bhavitha-jayaprakash/Geospatial-Machine-Learning-Model-for-Karnataka-Road-Accident-Severity-2016-2023.git)]([https://github.com/your-username/your-repo.git](https://github.com/bhavitha-jayaprakash/Geospatial-Machine-Learning-Model-for-Karnataka-Road-Accident-Severity-2016-2023.git))
+    git clone https://github.com/bhavitha-jayaprakash/Geospatial-Machine-Learning-Model-for-Karnataka-Road-Accident-Severity-2016-2023.git
     cd Geospatial-Machine-Learning-Model-for-Karnataka-Road-Accident-Severity-2016-2023
     ```
 2.  **Install the required packages:**
