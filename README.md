@@ -36,7 +36,7 @@
 
 <br>
 
-## 🗺️ About The Project
+## About The Project
 
 Karnataka faces a persistent challenge with road accidents, leading to significant loss of life and severe injuries. This project addresses the critical need for data-driven safety measures by analyzing historical accident data from 2016 to 2023.
 
@@ -44,7 +44,7 @@ The core of this project is a **Random Forest Classifier** that predicts acciden
 
 <br>
 
-## 🚀 Built With
+## Built With
 
 This analysis was conducted using the following core libraries and tools:
 
@@ -64,7 +64,7 @@ This analysis was conducted using the following core libraries and tools:
 
 <br>
 
-## 🛠️ Getting Started
+## Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
@@ -94,7 +94,7 @@ You need Python installed on your system along with the `pip` package manager.
 
 <br>
 
-## 📈 Key Visualizations & Findings
+## Key Visualizations & Findings
 
 The project generated several key visualizations that tell a story about road accidents in Karnataka.
 
@@ -121,7 +121,7 @@ The Random Forest model achieved a solid **accuracy of 76.32%**. The confusion m
 
 <br>
 
-## 🗺️ Roadmap
+## Roadmap
 
 While this project provides a strong foundation, there are several avenues for future development:
 - [ ] **Develop an Interactive Dashboard:** Create a web-based dashboard using Streamlit or Dash to allow users to explore the data and predictions interactively.
@@ -133,7 +133,7 @@ See the [open issues](https://github.com/bhavitha-jayaprakash/Geospatial-Machine
 
 <br>
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -147,15 +147,13 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 <br>
 
-## 📜 License
+## License
 
 Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 
 <br>
 
-<br>
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 * This project was completed as part of the **Project Internship Program in Data Science with AIML**.
 * Special thanks to the mentors and faculty at **Cranes Varsity Pvt. Ltd., Bangalore**, for their invaluable guidance and support.
