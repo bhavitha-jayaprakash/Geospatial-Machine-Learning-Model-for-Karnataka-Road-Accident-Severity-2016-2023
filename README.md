@@ -48,19 +48,13 @@ The core of this project is a **Random Forest Classifier** that predicts acciden
 
 This analysis was conducted using the following core libraries and tools:
 
-* **Data Manipulation & Analysis:**
-    * ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-* **Machine Learning:**
-    * ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-* **Data Visualization:**
-    * ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-    * ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-* **Geospatial Analysis:**
-    * ![GeoPandas](https://img.shields.io/badge/GeoPandas-139454?style=for-the-badge&logo=geopandas&logoColor=white)
-    * **Folium**
-* **Environment:**
-    * ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-    * ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+| Category                      | Tools & Libraries                                                                                                                                                                                                                                     |
+| :---------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Data Manipulation & Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)                                                                                                                                                    |
+| **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)                                                                                                                                  |
+| **Data Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)                         |
+| **Geospatial Analysis** | ![GeoPandas](https://img.shields.io/badge/GeoPandas-139454?style=for-the-badge&logo=geopandas&logoColor=white) **Folium** |
+| **Environment** | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) |
 
 <br>
 
@@ -102,22 +96,19 @@ The project generated several key visualizations that tell a story about road ac
 
 A `Folium` map was created to plot accidents across the state, with markers colored by severity. The map clearly shows that accidents, especially fatal ones, are heavily concentrated in and around major urban centers like **Bengaluru, Mysuru, and Davanagere** and along major state and national highways.
 
-*Replace this text with a screenshot of your Folium map.*
-``
+![Folium Map](src/map.png)
 
 ### Collision Type vs. Severity
 
 This analysis revealed that while vehicle-to-vehicle collisions are the most common, **hit-pedestrian** incidents have a disproportionately high rate of fatal outcomes. This insight suggests a need for improved pedestrian safety infrastructure.
 
-*Replace this text with a screenshot of your countplot.*
-``
+![Counplot](src/countplot.png)
 
 ### Model Performance
 
 The Random Forest model achieved a solid **accuracy of 76.32%**. The confusion matrix shows it is highly effective at identifying 'Fatal' and 'Simple Injury' cases but sometimes struggles to differentiate 'Grievous Injury' from the other two classes.
 
-*Replace this text with a screenshot of your confusion matrix.*
-``
+![Counplot](src/confusionmatrix.png)
 
 <br>
 
