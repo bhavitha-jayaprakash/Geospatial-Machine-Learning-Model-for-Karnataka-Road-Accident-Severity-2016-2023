@@ -20,22 +20,6 @@
 </p>
 <br>
 
-<details>
-  <summary><b>Table of Contents</b></summary>
-  <ol>
-    <li><a href="#-about-the-project">About The Project</a></li>
-    <li><a href="#-built-with">Built With</a></li>
-    <li><a href="#-getting-started">Getting Started</a></li>
-    <li><a href="#-key-visualizations--findings">Key Visualizations & Findings</a></li>
-    <li><a href="#-roadmap">Roadmap</a></li>
-    <li><a href="#-contributing">Contributing</a></li>
-    <li><a href="#-license">License</a></li>
-    <li><a href="#-acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-<br>
-
 ## About The Project
 
 Karnataka faces a persistent challenge with road accidents, leading to significant loss of life and severe injuries. This project addresses the critical need for data-driven safety measures by analyzing historical accident data from 2016 to 2023.
